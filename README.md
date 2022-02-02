@@ -1,6 +1,6 @@
 - 👋🏼 Hi, I’m @MartinGurasvili
 - 🌍 I’m interested in learning everything
-- 📚 I’m currently learning Networking Solutions
+- 📚 I’m currently learning Machine Learning
 - 🏠 I would love to join a dev team to work on a project
 - 🫂 Feel free to use and improve my code 
 - 📫 MartinGurasvili@gmail.com
