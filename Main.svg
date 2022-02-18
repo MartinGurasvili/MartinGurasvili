@@ -17,7 +17,7 @@
     transform: scaleX(-0.7);
   }
   @font-face {
-    font-family: 'ff';
+    font-family: 'Courier New';
     src: url('https://github.com/MartinGurasvili/MartinGurasvili/raw/main/matrix.ttf')format('ttf');
 }
   @keyframes fadeIn {
