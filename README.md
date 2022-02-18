@@ -1,4 +1,9 @@
 ![Matrix-1s-1084px-2](https://user-images.githubusercontent.com/76784461/154727972-66510d4a-53f6-4306-bd2b-6849072fc652.svg)
+<div align="center">
+	<img src="https://github.com/MartinGurasvili/MartinGurasvili/blob/main/Main.svg" width="800" height="400">
+  
+	<br>
+</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MartinGurasvili" alt="Profile views" />
