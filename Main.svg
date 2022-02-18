@@ -18,7 +18,7 @@
   }
   @font-face {
     font-family: 'ff';
-    src: url('https://github.com/MartinGurasvili/MartinGurasvili/raw/main/matrix.ttf');
+    src: url('matrix.ttf')format('ttf');
 }
   @keyframes fadeIn {
 					0% {
