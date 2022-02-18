@@ -1,9 +1,9 @@
+
 <div align="center">
-	<img src="https://github.com/MartinGurasvili/MartinGurasvili/blob/main/Main.svg" width="800" height="400">
-  
-	
+	<img src="https://user-images.githubusercontent.com/76784461/154733799-e90de9f7-a1ff-426c-b98e-dba71ccb1c82.svg" width="800" height="400">
 
 </div>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MartinGurasvili" alt="Profile views" />
