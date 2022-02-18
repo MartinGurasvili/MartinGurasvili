@@ -17,9 +17,12 @@
     transform: scaleX(-0.7);
   }
   @font-face {
-    font-family: 'Courier New';
-    src: url('https://github.com/MartinGurasvili/MartinGurasvili/raw/main/matrix.ttf')format('ttf');
+    font-family: 'ff';
+    src: url('https://github.com/MartinGurasvili/MartinGurasvili/raw/main/matrix.ttf');
 }
+
+
+
   @keyframes fadeIn {
 					0% {
 						opacity: 0;
@@ -57,16 +60,17 @@
 					text-align: center;
 				}
 				h1 {
-					font-family: ff;
+					font-family: 'Courier New';
+
   				
 					font-size: 60px;
-					font-weight:0.5;
+					font-weight:1;
 					animation:fadeIn ease 1s;
 					
 				}
 				
-
 </style></g></g>
+
 			<foreignObject width="100%" height="100%" >
 		
 		<div xmlns="http://www.w3.org/1999/xhtml">
