@@ -1,9 +1,6 @@
-- 👋🏼 Hi, I’m @MartinGurasvili
-- 🌍 I’m interested in learning everything
-- 📚 I’m currently learning Machine Learning
-- 🏠 I would love to join a dev team to work on a project
-- 🫂 Feel free to use and improve my code 
-- 📫 MartinGurasvili@gmail.com
+![Matrix-1s-1084px-2](https://user-images.githubusercontent.com/76784461/154727972-66510d4a-53f6-4306-bd2b-6849072fc652.svg)
+
+<br><br>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=MartinGurasvili" alt="Profile views" />
 </p>
