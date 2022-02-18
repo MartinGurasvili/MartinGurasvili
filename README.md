@@ -1,10 +1,10 @@
 
 <div align="center">
-	<img src="https://user-images.githubusercontent.com/76784461/154767062-a9a07ea3-c966-4e4c-9e47-679f39cdbe2a.svg" width="800" height="400">
+	<img src="https://user-images.githubusercontent.com/76784461/154767244-3a43e50b-4773-4faf-83cd-a2325eefef88.svg" width="800" height="400">
 
 </div>
 
-
+<br><br>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MartinGurasvili" alt="Profile views" />
