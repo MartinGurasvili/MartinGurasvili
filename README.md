@@ -11,8 +11,7 @@
 <div align="center">
 	
 
-	
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martingurasvili&bg_color=0F1116&hide_border=true&title_color=53b568&text_color=ffff&layout=compact&langs_count=8&hide=less,scss,ruby)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Lan](https://github-readme-stats.vercel.app/api/top-langs/?username=martingurasvili&bg_color=0F1116&hide_border=true&title_color=53b568&text_color=ffff&layout=compact&langs_count=9&hide=less,scss,ruby)](https://github.com/anuraghazra/github-readme-stats)
 	
 <img src="https://www.codewars.com/users/martin_gurasvili/badges/small" alt="Codewars" />
 	
