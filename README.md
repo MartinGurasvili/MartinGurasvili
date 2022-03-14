@@ -23,10 +23,6 @@
 <img src="https://www.codewars.com/users/martin_gurasvili/badges/small" alt="Codewars" />	
 <br>		
 <img src="https://komarev.com/ghpvc/?username=MartinGurasvili" alt="Profile views" />
-<br>
-
-	
-
 </div>
 <!---
 MartinGurasvili/MartinGurasvili is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
