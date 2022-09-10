@@ -24,7 +24,7 @@
 	
 	@media (prefers-color-scheme:dark){
 		.con{
-			background-color: rgb(14, 17, 22);
+			background-color: rgba(14, 17, 22,0);
 			display: block; 
 			shape-rendering: crispedges;
 		}
