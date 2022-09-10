@@ -24,7 +24,7 @@
 	
 	@media (prefers-color-scheme:dark){
 		.con{
-			background-color: rgba(14, 17, 22,0);
+			<!-- background-color: rgba(14, 17, 22,0); -->
 			display: block; 
 			shape-rendering: crispedges;
 		}
@@ -40,7 +40,7 @@
 	}
 	@media (prefers-color-scheme:light){
 		.con{
-			background-color: rgb(255, 255, 255);
+			<!-- background-color: rgb(255, 255, 255); -->
 			display: block; 
 			shape-rendering: crispedges;
 		}
