@@ -24,9 +24,9 @@
 	<img src="https://user-images.githubusercontent.com/76784461/191317471-d5e9fde2-6294-4e5e-afe9-3308fb09a543.png" width="13%" height="auto">
 	<img src="https://github-readme-stats.vercel.app/api/pin/?username=martingurasvili&repo=NjHandCrafted&theme=transparent" width="34%" height="auto">
 	</a>⠀
-	<a href="https://github.com/MartinGurasvili/AirBourne-Scripts">
-	<img src="https://user-images.githubusercontent.com/76784461/201528643-81b98245-d4df-428a-8745-8043bb53a24d.png" width="13%" height="auto">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=martingurasvili&repo=AirBourne-Scripts&theme=transparent" width="34%" height="auto">
+	<a href="https://github.com/MartinGurasvili/sudoku">
+	<img src="https://user-images.githubusercontent.com/76784461/155856251-81743279-6fb9-41c8-8b7e-c7bac124f6ba.png" width="13%" height="auto">
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=martingurasvili&repo=sudoku&theme=transparent" width="34%" height="auto">
 	</a>
 	<br><br>
 	<a href="https://vecter-games.itch.io/airbourne">
